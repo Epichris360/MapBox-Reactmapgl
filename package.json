@@ -62,5 +62,6 @@
     "index.html",
     "dist"
   ],
-  "format": "react"
+  "format": "react",
+  "app": "59ea28831c2e4f0012e6a774"
 }
